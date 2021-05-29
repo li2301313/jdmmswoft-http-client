@@ -1,0 +1,21 @@
+{
+    "name": "jdmmswoft/http-client",
+    "version": "1.0.4",
+    "type": "library",
+    "keywords": [
+        "php",
+        "swoft",
+        "http-client",
+        "Swlib-Saber"
+    ],
+    "description": "http-client for swoft2",
+    "license": "Apache-2.0",
+    "require": {
+        "swlib/saber" : "~1.0.15"
+    },
+    "autoload": {
+        "psr-4": {
+            "Jdmm\\Saber\\": "src/"
+        }
+    }
+}
