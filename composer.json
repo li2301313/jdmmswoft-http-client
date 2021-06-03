@@ -9,7 +9,7 @@
         "Swlib-Saber"
     ],
     "description": "http-client for swoft2",
-    "license": "Apache-2.0",
+    "license": "MIT",
     "require": {
         "swlib/saber" : "~1.0.15"
     },
